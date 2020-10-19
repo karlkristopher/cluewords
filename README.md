@@ -44,8 +44,8 @@ ClueWords is a multiplayer web-based board game for 4-8 players, based on the bo
 
 ### Get Started 
 
-1. Clone the repository
-2. Install the dependencies.
+- Clone the repository
+- Install the dependencies.
 ```console
 cd client
 npm install
@@ -53,24 +53,23 @@ npm install
 cd server
 npm install
 ```
-3. See server/env.example and acquire necessary keys.
+- See server/env.example and acquire necessary keys.
 
-4. Create required environment file.
+- Create required environment file.
 
 ```console
 cd server
 cp .env.example .env
 ```
 
-5. Steps to run locally:
-For Backend Server.
+- Start backend server.
 ```console
 cd server
 npm run dev
 ```
-For Frontend Server
+- Start frontend server.
 ```console
-cd server
+cd client
 npm start
 ```
 
