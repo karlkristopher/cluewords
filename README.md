@@ -28,7 +28,7 @@ ClueWords is a multiplayer web-based board game for 4-8 players, based on the bo
 <img src="https://res.cloudinary.com/karlkris/image/upload/v1602517817/github/cluewords_spy_bpucoi.png" alt="cluewords_spymasterview" width="800"  />
 
 ### Game Setup
-<img src="https://res.cloudinary.com/karlkris/image/upload/v1603140329/github/game_setup_demo_ip4z4s.gif" alt="cluewords_spymasterview" width="800"  />
+<img src="https://res.cloudinary.com/karlkris/image/upload/v1603144375/github/game_setup_demo2_gq7f7h.gif" alt="cluewords_spymasterview" width="800"  />
 
 
 ## Setup <img src="https://img.icons8.com/color/452/npm.png" width="40">
