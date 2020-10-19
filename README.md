@@ -13,13 +13,6 @@ ClueWords is a multiplayer web-based board game for 4-8 players, based on the bo
  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=2C2C30" alt="redis-badge" height="22"  />
 </p>
 
-
-## Contributors <img src="https://cdn0.iconfinder.com/data/icons/occupation-002/64/programmer-programming-occupation-avatar-512.png" width="40">
-- [Bonnie Li](https://github.com/bonnieli) (Project Lead)
-- [Karl Secen](https://github.com/karlkristopher)
-- [Nicholas Chumney](https://github.com/chumnend)
-- [Jorawar Singh](https://github.com/jorawarSinghNijjar)
-
 ## Demo
 ### Gameplay - "Agent" View
 <img src="https://res.cloudinary.com/karlkris/image/upload/v1602518666/github/cluewords_demo_ofen0l.gif" alt="cluewords_gameplay_demo" width="800"  />
@@ -73,5 +66,10 @@ cd client
 npm start
 ```
 
+## Contributors <img src="https://cdn0.iconfinder.com/data/icons/occupation-002/64/programmer-programming-occupation-avatar-512.png" width="40">
+- [Bonnie Li](https://github.com/bonnieli) (Project Lead)
+- [Karl Secen](https://github.com/karlkristopher)
+- [Nicholas Chumney](https://github.com/chumnend)
+- [Jorawar Singh](https://github.com/jorawarSinghNijjar)
 
 
