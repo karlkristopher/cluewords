@@ -13,6 +13,7 @@
  <img src="https://img.shields.io/badge/jwt-000000?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=2C2C30" alt="jwt-badge" height="22"  />
  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=2C2C30" alt="aws-badge" height="22"  />
  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=2C2C30" alt="redis-badge" height="22"  />
+ <img src="https://img.shields.io/badge/material%20ui-0081CB?style=flat-square&logo=material-ui&logoColor=white&labelColor=2C2C30" alt="redis-badge" height="22"  />
 </p>
 
 ## Demo
