@@ -53,62 +53,26 @@ npm install
 cd server
 npm install
 ```
+3. See server/env.example and acquire necessary keys.
 
+4. Create required environment file.
 
-### Configuration <img src="https://www.clipartmax.com/png/middle/339-3394813_setting-clipart-control-system-system-configuration-icon.png" width="40">
-
-1. Create required environment file.
 ```console
 cd server
 cp .env.example .env
 ```
 
-2. Configure the application environment using `NODE_ENV` and `PORT` :
-
+5. Steps to run locally:
+For Backend Server.
+```console
+cd server
+npm run dev
 ```
-# Misc
-NODE_ENV=[production or test or dev]
-PORT= [Enter port number here]
-
+For Frontend Server
+```console
+cd server
+npm start
 ```
-3. Configure the application secret key for authentication using `SECRET_KEY`:
-
-```
-SECRET_KEY= [Enter secret key for passport.js here]
-```
-
-4. Create your account with Mongo Atlas (if you don't have an account) OR Use local instance of MongoDB
-5. Configure the database URI using `DB_URI` :
-
-```
-# Database
-
-DB_URI= [Enter your mongo URI here]
-
-```
-6. Download redis and add the `REDIS_URI`:
-
-```
-#Redis
-REDIS_URI=[Enter your redis URI here]
-```
-
-7. Sign up for SendGrid and add the API Key you get from SendGrid to `SENDGRID_API_KEY`. Also add the domain to `DOMAIN` variable:
-```
-# SendGrid
-SENDGRID_API_KEY=[Enter SendGrid API Key here]
-# Domain (used in email invites)
-# Note: do no include "/" at end of url (ie http://mywebsite.com))
-DOMAIN= 
-```
-8.Sign up for AWS and configure AWS variables in `.env` file:
-```
-#AWS S3
-AWS_ACCESS_KEY=[Enter AWS access key]
-AWS_SECRET= [Enter AWS secret]
-```
-
-9. Finally, when all the `.env` variables are setup, run `npm start` for client and `npm run dev` for server to start. Enjoy the application!
 
 
 
