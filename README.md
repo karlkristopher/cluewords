@@ -1,6 +1,8 @@
 # CLUEWORDS <img src="https://www.pikpng.com/pngl/m/5-50331_games-icon-circle-png-png-download-video-game.png" width="50">
 
-ClueWords is a multiplayer web-based board game for 4-8 players, based on the board game [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)). Two teams compete by having a spymaster give one word clue that can point to multiple words on the board. The other players on the team ("agents) attempt to guess their team’s words while avoiding the words of the other team, along with the game-ending "assassin" card. 
+* A multiplayer, web-based board game for 4-8 players, based on the board game [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)).
+* Two teams compete by having a spymaster give one word clue that can point to multiple words on the board.
+* Other players on the team ("agents") attempt to guess their team’s words while avoiding the words of the other team, along with the game-ending "assassin" card. 
 #### Built with:
 <p>
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=2C2C30" alt="react-badge" height="22"  />
