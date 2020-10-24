@@ -1,8 +1,8 @@
 # CLUEWORDS <img src="https://www.pikpng.com/pngl/m/5-50331_games-icon-circle-png-png-download-video-game.png" width="50">
 
 * A multiplayer, web-based board game for 4-8 players, based on the board game [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)).
-* Two teams compete by having a spymaster give one word clue that can point to multiple words on the board.
-* Other players on the team ("agents") attempt to guess their team’s words while avoiding the words of the other team, along with the game-ending "assassin" card. 
+* Two teams compete by having a spymaster give one word clues that can point to multiple words on the board.
+* Other players on the team (agents) attempt to guess their team’s words while avoiding the words of the other team, along with the game-ending assassin card. 
 #### Built with:
 <p>
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=2C2C30" alt="react-badge" height="22"  />
@@ -17,10 +17,10 @@
 </p>
 
 ## Demo
-### Gameplay - "Agent" View
+### Gameplay - Agent View
 <img src="https://res.cloudinary.com/karlkris/image/upload/v1602518666/github/cluewords_demo_ofen0l.gif" alt="cluewords_gameplay_demo" width="800"  />
 
-### "Spymaster" View
+### Spymaster View
 <img src="https://res.cloudinary.com/karlkris/image/upload/v1602517817/github/cluewords_spy_bpucoi.png" alt="cluewords_spymasterview" width="800"  />
 
 ### Game Setup
