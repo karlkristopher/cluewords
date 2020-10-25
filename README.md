@@ -55,7 +55,7 @@ npm install
 
 ```console
 cd server
-cp .env.example .env
+cp env.example .env
 ```
 
 - Start backend server.
