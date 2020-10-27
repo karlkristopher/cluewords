@@ -6,6 +6,7 @@ const config = require("../config");
 
 module.exports = {
   async register(req, res, next) {
+    console.log("req.body", req.body);
     try {
       const { errors, isValid } = validateRegister(req.body);
       if (!isValid) {
@@ -34,6 +35,7 @@ module.exports = {
         email: newUser.email,
         name: newUser.name,
       };
+
       const token = jwt.sign(payload, config.secret);
       const hour = 3600000;
       res.cookie("token", token, {
